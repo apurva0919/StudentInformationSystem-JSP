@@ -1,0 +1,17 @@
+SMAP
+frmStudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 frmStudent.jsp
+frmStudent.jsp
++ 1 frmNavigationbar.jsp
+frmNavigationbar.jsp
+*L
+5,7:49
+5#1,9:56
+13,52:65
+65:117,3
+66,20:120
+11#0,63:139
+*E
